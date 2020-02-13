@@ -5,6 +5,6 @@ public struct LibraryB {
     }
     
     public func printMyName() {
-        print("I'm Library B")
+        print("I'm Library BBB")
     }
 }
